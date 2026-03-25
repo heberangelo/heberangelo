@@ -43,7 +43,7 @@ Analytical insights generation
 
  - Python for data analysis (Pandas, automation, data processing)
  - Version control with Git & GitHub
- - mproving portfolio with real-world scenario projects
+ - Improving portfolio with real-world scenario projects
 
 ## 📫 Contact
 - LinkedIn: [heberangelo](https://www.linkedin.com/in/heberangelo)
