@@ -1,6 +1,6 @@
 # Hi, I'm Heber 👋
 
-Data Analyst | BI Specialist | Turning data into actionable insights for business decision-making
+Data Analyst | Analytics Engineer | Data Quality | Data Product | BI Specialist | Turning data into actionable insights for business decision-making
 
 ## 🚀 About me 
 
